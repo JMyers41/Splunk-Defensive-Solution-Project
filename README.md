@@ -11,7 +11,7 @@ Using these reports we then developed alerts by determining baselines and thresh
 
 # Part 2: Testing the Solution 
 
-Secondly, we uploaded simulated attack logs in order to test our solution. We then compared reports to see the difference in statistics during a simulated attack. We checked our alerts to determine if they would trigger (or result in too many alerts) and finally compared our attack dashboard to the original dashboard. 
+Secondly, we uploaded simulated attack logs in order to test our solution. We then compared reports to see the difference in statistics during a simulated attack. We checked our alerts to determine if they would trigger (or result in too many alerts) and then compared our attack dashboard to the original dashboard. 
 
 Finally, using the data received from the attack logs, we developed a hypothesis of what attacks occured and how. 
 
